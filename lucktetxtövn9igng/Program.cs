@@ -20,4 +20,5 @@ soup = Console.ReadLine();
 
 Console.WriteLine($"Hello Mr.Mikael. We are sorry to inform you that {name} is home sick with {virus}. They are currently in the ICU and are being fed {fluid} and {soup}. The doctors excpect them to pass away soon(f)");
 
-Console.ReadLine();
+Console.ReadLine(); 
+
